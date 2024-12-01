@@ -10,6 +10,6 @@ new_age = age + 5
 
 print(new_age)
 
-is_student = age < new_age
+is_student = True
 
 print(is_student)
