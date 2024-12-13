@@ -13,9 +13,3 @@ for i in numbers:
         break
 print(primes)
 print(not_primes)
-#        if i % j == 0:
- #           primes.append(i)
-  #          break
-   #     else:
-    #        not_primes.append(i)
-
